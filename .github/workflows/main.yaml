@@ -3,7 +3,7 @@ name: Machine Learning Pipeline
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
