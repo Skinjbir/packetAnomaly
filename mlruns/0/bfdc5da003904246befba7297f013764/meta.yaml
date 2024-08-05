@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Moham/Desktop/ml/mlruns/0/bfdc5da003904246befba7297f013764/artifacts
+end_time: 1722872876313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfdc5da003904246befba7297f013764
+run_name: bouncy-croc-397
+run_uuid: bfdc5da003904246befba7297f013764
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872835825
+status: 3
+tags: []
+user_id: Moham

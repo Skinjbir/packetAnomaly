@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Moham/Desktop/ml/mlruns/0/28cd86969982415998092b150aa38ae3/artifacts
+end_time: 1722261353583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28cd86969982415998092b150aa38ae3
+run_name: luxuriant-shrike-41
+run_uuid: 28cd86969982415998092b150aa38ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722261315562
+status: 3
+tags: []
+user_id: Moham

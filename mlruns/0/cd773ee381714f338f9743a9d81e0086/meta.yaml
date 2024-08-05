@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Moham/Desktop/ml/mlruns/0/cd773ee381714f338f9743a9d81e0086/artifacts
+end_time: 1722261550633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd773ee381714f338f9743a9d81e0086
+run_name: persistent-newt-746
+run_uuid: cd773ee381714f338f9743a9d81e0086
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722261511668
+status: 3
+tags: []
+user_id: Moham
