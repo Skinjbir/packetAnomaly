@@ -36,11 +36,11 @@ def main():
 
         # Split Data
         datasplitter = DataSplitter()
-        X_train, X_test, y_train, y_test = datasplitter.split_data(X_selected, target, 0.2)
+        X_train, X_test, y_train, y_test = datasplitter.split_data_v2(X_selected)
         logging.info("Data split successfully.")
         logging.debug(f"Training set size: {X_train.shape[0]}, Test set size: {X_test.shape[0]}")
 
-        # Train Model
+        """ # Train Model
         model = LogisticRegression()
         trainer = ModelTrainer(X_train, y_train, model)
         trainer.train_model()
@@ -55,7 +55,7 @@ def main():
 
         # Save The Model
         trainer.save_trained_model("./saved_model/model.pkl")
-        logging.info("Model saved successfully.")
+        logging.info("Model saved successfully.") """
 
     except Exception as e:
         logging.error(f"An error occurred: {e}")
